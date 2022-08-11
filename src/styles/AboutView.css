@@ -1,0 +1,17 @@
+:root {
+	bg: #0b0d10;
+	fg: #d2daf4;
+}
+
+.title {
+	color: var(--fg);
+	font-size:  2rem;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.about {
+	font-family: 'JetBrains Mono', monospace; 
+	color: var(--fg);
+	font-size: 1.8rem;
+	text-align: center;
+}
