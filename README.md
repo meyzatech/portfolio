@@ -14,7 +14,7 @@ Live demo: [Portfolio Website](https://portfolio-1kan-git-main-saransaranklives-
 - Vite (for fast development and build)
 - CSS/SCSS
 
-### Steps to Self-Host
+## Steps to Self-Host
 
 1. **Clone the repository:**
    ```bash
