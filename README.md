@@ -4,6 +4,10 @@ This is my personal portfolio, built using Vue.js. The portfolio showcases my wo
 
 Live demo: [Portfolio Website](https://portfolio-1kan-git-main-saransaranklives-projects.vercel.app/)
 
+<p align="left"> 
+  <img src="https://cdn.discordapp.com/attachments/1058051418369568768/1330520645037199441/meyzasite.png?ex=678e4769&is=678cf5e9&hm=1edd0eacd834c49df710539a04679c5d2a79bb91436b67b252436cf001607b9b&">
+</p> 
+
 ## Features
 - Showcase of personal projects
 - Responsive design for mobile and desktop views
