@@ -39,5 +39,5 @@ Live demo: [Portfolio Website](https://portfolio-1kan-git-main-saransaranklives-
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. For any issues, create a new issue in the GitHub repo.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/meyzatech/portfolio/blob/main/LICENSE) file for details.
 
